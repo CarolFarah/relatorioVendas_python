@@ -11,4 +11,4 @@
 - Passo 3: Calcular a quantidade de produtos vendidos de cada loja
 - Passo 4: Calcular o Ticket Médio dos produtos de cada loja
 - Passo 5: Enviar e-mail para diretoria
-- Passo 6> Enviar e-mail para cada loja
+- Passo 6: Enviar e-mail para cada loja
